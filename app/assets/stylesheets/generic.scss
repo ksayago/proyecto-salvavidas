@@ -1,0 +1,21 @@
+body {
+	min-width: 98vw;
+    min-height: 100vh;
+    background-color: #888;
+}
+
+.no-padding {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.content-page {
+	min-height: 100vh;
+	margin: 5px;
+	z-index: 2;
+	background-color: #fff;
+}
+
+.align_right {
+	text-align: right;
+}
